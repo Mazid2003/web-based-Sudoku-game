@@ -38,7 +38,7 @@ JavaScript ⚡ (For game logic & backtracking solver)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/sudoku-game.git
+git clone https://github.com/Mazid2003/web based sudoku game.git
 
 cd sudoku-game
 
@@ -61,8 +61,11 @@ The algorithm fills in the correct numbers by recursively checking valid placeme
 **🌱 Future Enhancements**
 
 🔹 Difficulty Levels (Easy, Medium, Hard)
+
 🔹 Timer & Score Tracking
+
 🔹 Save & Resume Game Feature
+
 🔹 Dark Mode & UI Improvements
 
 **📜 License**
