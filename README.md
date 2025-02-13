@@ -38,7 +38,7 @@ JavaScript ⚡ (For game logic & backtracking solver)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Mazid2003/web based sudoku game.git
+git clone https://github.com/Mazid2003/web-based-sudoku-game.git
 
 cd sudoku-game
 
