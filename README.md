@@ -72,3 +72,8 @@ The algorithm fills in the correct numbers by recursively checking valid placeme
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
+
