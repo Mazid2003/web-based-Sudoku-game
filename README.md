@@ -63,6 +63,9 @@ The algorithm fills in the correct numbers by recursively checking valid placeme
 **1.**
 ![screenshot_2025-04-17_09-48-55](https://github.com/user-attachments/assets/2e10bbce-2040-4c5c-82e3-d1776056bb3d)
 
+**2.**
+![screenshot_2025-04-17_09-50-29](https://github.com/user-attachments/assets/df8115aa-480b-417e-8ca0-794177912309)
+
 **🌱 Future Enhancements**
 
 🔹 Difficulty Levels (Easy, Medium, Hard)
