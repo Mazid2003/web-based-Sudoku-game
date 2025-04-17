@@ -58,6 +58,11 @@ Invalid moves are highlighted in red.
 Clicking the Solve button triggers the backtracking algorithm.
 The algorithm fills in the correct numbers by recursively checking valid placements.
 
+**Screenshots**
+
+**1.**
+![screenshot_2025-04-17_09-48-55](https://github.com/user-attachments/assets/2e10bbce-2040-4c5c-82e3-d1776056bb3d)
+
 **🌱 Future Enhancements**
 
 🔹 Difficulty Levels (Easy, Medium, Hard)
