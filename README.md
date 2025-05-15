@@ -84,4 +84,12 @@ This project is open-source under the MIT License. Feel free to use and modify i
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
+👨‍💻 Author
+
+Created by Mohammad Mazid
+
+Email:mazidmd750@gmail.com
+
+Linkedin: https://www.linkedin.com/in/mohammadmazid
+
 
